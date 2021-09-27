@@ -74,11 +74,11 @@
 - Install Requirements.
 
 `pip install -U -r requirements.txt`
-- Generate HELLBOT SESSION.
+- Generate 𝗖𝗢𝗠𝗕𝗢𝗧 SESSION.
 
-`python hell_string.py`
+`python Com_string.py`
 - Create config.py or rename ex_config.py to config.py. Fill All The Required Variables.
-- Finally Start Hêllẞø† By
+- Finally Start 𝗖𝗢𝗠𝗕𝗢𝗧 By
 
 `bash start.sh`
 
@@ -102,19 +102,19 @@
 - Fill API ID, API HASH, Phone number (with country code).
 - Paste the OTP received on Telegram.
 - If You have Enabled 2-Step Verification then fill your password.
-- Your HellBot Session Will be saved in your Telegram Saved Message.
-- [![Replit](https://telegra.ph/file/68aacf214a17e366d9b60.jpg)](https://replit.com/@TheHellBot/HellBot?v=1)
+- Your 𝗖𝗢𝗠𝗕𝗢𝗧 Session Will be saved in your Telegram Saved Message.
+- [![Replit](https://telegra.ph/file/0beba5da79e33f316e06b.jpg)](https://replit.com/@ComSpatil/𝗖𝗢𝗠𝗕𝗢𝗧?v=1)
 
 ### Terminal
 - Open the terminal.
 - Paste this code.
 
-`pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/TheVaders/InVade/master/hell_string.py && python3 hell_string.py`
+`pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/TheVaders/InVade/master/𝗖𝗢𝗠_string.py && python3 𝗖𝗢𝗠_string.py`
 - Fill API ID, API HASH, Phone number (with country code).
 - Paste the OTP received on Telegram.
 - If You have Enabled 2-Step Verification then fill your password.
 - Note that Termux Doesn't show passwords when filled. Just paste your password and hit enter.
-- Your HellBot Session Will be saved in your Telegram Saved Message.
+- Your 𝗖𝗢𝗠𝗕𝗢𝗧 Session Will be saved in your Telegram Saved Message.
 
 ------
 ## Disclaimer
@@ -131,9 +131,9 @@
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-<h4 align="center">Copyright (C) 2021 <a href="https://github.com/The-HellBot">The-HellBot</a></h4>
+<h4 align="center">Copyright (C) 2021 <a href="https://github.com/ComSpatil">ComSpatil</a></h4>
 
-Project [HellBot](https://github.com/The-HellBot/HellBot) is free software: you can redistribute it and/or modify
+Project [𝗖𝗢𝗠𝗕𝗢𝗧](https://github.com/ComSpatil/𝗖𝗢𝗠𝗕𝗢𝗧) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
@@ -142,12 +142,12 @@ but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
-along with this program. If not, see <https://www.gnu.org/licenses/>.
+along with this program. If not, see <http
 
 ------
 ## Credits
 
-- 💖 [Lonami](https://github.com/Lonami) for [Telethon](https://github.com/LonamiWebs/Telethon)
+- 💖 [S̶ N̶O̶B̶I̶T̶A̶](https://t.me/SNOBITA24) for [Telethon](https://github.com/LonamiWebs/Telethon)
 - 💖 My Team Members For Supporting Me.
 
 ------
